@@ -89,7 +89,7 @@ ul.navbar-horizontal{
     }
     ul.navbar-horizontal a{
       text-align: center;
-      color: #74cf06;
+      color: #63ab0c;
       display: block;
       padding:10px;
       margin:10px;
@@ -104,5 +104,5 @@ ul.navbar-horizontal{
     }
     i{
       color: rgb(176, 80, 12);
-      font-size: 200px!important;
+      font-size: 220px!important;
     }
