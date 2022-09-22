@@ -1,15 +1,11 @@
 .CHO{
     color:black;
     font-size: medium;
-    font-style: initial;
-    text-indent: 20cm;
 }
 
 .song{
     color:black;
     font-size: medium;
-    font-style: initial;
-    text-indent: 65px;
 }
 
 .direction{
@@ -19,18 +15,43 @@
     font-family: 'Times New Roman', serif,Times;
 
 } 
+.direction:hover{
+    background-color: red;color:brown;
+}
 
-
-
-.CHO{
-    color:black;
- font-size: medium;
+.YUM{
+    color:rgb(218, 23, 221);
+ font-size: large;
  font-style:initial
 
 }
 
-.YUM{
-    color:black;
+
+.NAN{
+    color:rgb(41, 184, 30);
+ font-size: large;
+ font-style:initial
+
+}
+
+
+
+.PEE{
+    color:rgb(56, 163, 79);
+ font-size: large;
+ font-style:initial
+
+}
+
+.NAN{
+    color:rgb(179, 40, 89);
+ font-size: large;
+ font-style:initial
+
+}
+
+.PIT{
+    color:rgb(19, 85, 178);
  font-size: large;
  font-style:initial
 
