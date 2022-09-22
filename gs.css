@@ -71,4 +71,38 @@ background-color: rgb(52, 20, 232);
 }
 
 
+.RRR:hover, .LOKAM:hover, .SSS:hover {
+   
+    text-shadow: 2px 2px 8px #ed0c0c;  
+    border-style: 1px solid;
+    
+}
 
+
+ul.navbar-horizontal{
+    list-style-type: none;
+    margin: 20px;  
+  }
+  ul.navbar-horizontal li{
+      float: center;  
+      background-color: rgb(23, 26, 203);
+    }
+    ul.navbar-horizontal a{
+      text-align: center;
+      color: #74cf06;
+      display: block;
+      padding:10px;
+      margin:10px;
+    }
+    ul.navbar-horizontal a:hover{
+      background-color: rgb(200, 100, 22);
+      color: rgb(209, 21, 57);
+    }
+    li{
+      float: left;
+     
+    }
+    i{
+      color: chocolate;
+      font-size: 200px!important;
+    }
