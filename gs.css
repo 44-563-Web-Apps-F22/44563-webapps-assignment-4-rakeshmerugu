@@ -26,6 +26,15 @@
 
 }
 
+.YUM:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
+
+}
+
 
 .NAN{
     color:rgb(41, 184, 30);
@@ -33,7 +42,13 @@
  font-style:initial
 
 }
-
+.NAN:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px; 
+}
 
 
 .PEE{
@@ -42,12 +57,12 @@
  font-style:initial
 
 }
-
-.NAN{
-    color:rgb(179, 40, 89);
- font-size: large;
- font-style:initial
-
+.PEE:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
 }
 
 .PIT{
@@ -56,7 +71,13 @@
  font-style:initial
 
 }
-
+.PIT:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
+}
 
 table,td,th{
     border: solid 1px;
@@ -71,13 +92,45 @@ background-color: rgb(52, 20, 232);
 }
 
 
-.RRR:hover, .LOKAM:hover, .SSS:hover {
-   
-    text-shadow: 2px 2px 8px #ed0c0c;  
-    border-style: 1px solid;
-    
-}
+.RRR{
+    color:rgb(19, 85, 178);
+ font-size: large;
+ font-style:initial
 
+}
+.RRR:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
+}
+.LOKAM{
+    color:rgb(19, 85, 178);
+ font-size: large;
+ font-style:initial
+
+}
+.LOKAM:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
+}
+.SSS{
+    color:rgb(19, 85, 178);
+ font-size: large;
+ font-style:initial
+
+}
+.SSS:hover{
+    background-color: #FF0000;
+    color: aliceblue;
+    text-shadow: 2.5px 2.5px 2.5px greenyellow;
+    border-style: solid;
+    border: 2px;
+}
 
 ul.navbar-horizontal{
     list-style-type: none;
