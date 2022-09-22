@@ -19,9 +19,6 @@
     font-family: 'Times New Roman', serif,Times;
 
 } 
-.direction:hover {
-    background-color: aqua;
-    color: blueviolet;}
 
 
 
@@ -38,23 +35,6 @@
  font-style:initial
 
 }
-.PIT{
-    color:black;
-    font-size: large;
-    font-style:initial
 
-}
- 
 
-.LISA{
-    color:black;
-    font-size: large;
-    font-style:initial
-}
 
-.JULIA{
-    color:black;
- font-size: large;
- font-style:initial
-
-}
