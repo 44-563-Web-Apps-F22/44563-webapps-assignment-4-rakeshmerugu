@@ -28,20 +28,20 @@
 .CHORUS{
     color:black;
  font-size: medium;
- font-style:italic
+ font-style:initial
 
 }
 
 .LUDWIG{
     color:black;
  font-size: large;
- font-style:italic
+ font-style:initial
 
 }
 .BAR{
     color:black;
     font-size: large;
-    font-style:italic
+    font-style:initial
 
 }
  
@@ -49,26 +49,26 @@
 .LISA{
     color:black;
     font-size: large;
-    font-style:italic
+    font-style:initial
 }
 
 .JULIA{
     color:black;
  font-size: large;
- font-style:italic
+ font-style:initial
 
 }
 
 table,td,th{
     border: solid 1px;
-    color: rgb(247, 130, 20);
+    color: rgb(213, 109, 11);
     text-align: center;
     padding: 1em;
     margin: 1px;
     
 }
 tr:nth-child(odd){
-background-color: rgb(52, 20, 232);
+background-color: rgb(43, 15, 202);
 }
 
 .LUDWIG:hover, .LISA:hover, .JULIA:hover, .BAR:hover {
@@ -95,7 +95,7 @@ ul.navbar-horizontal{
       margin:10px;
     }
     ul.navbar-horizontal a:hover{
-      background-color: rgb(200, 100, 22);
+      background-color: rgb(155, 71, 7);
       color: rgb(209, 21, 57);
     }
     li{
@@ -103,6 +103,6 @@ ul.navbar-horizontal{
      
     }
     i{
-      color: chocolate;
+      color: rgb(190, 87, 14);
       font-size: 200px!important;
     }
